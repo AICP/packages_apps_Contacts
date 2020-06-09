@@ -21,4 +21,7 @@
 
     <string name="call_via_template">Call via <xliff:g id="account">%1$s</xliff:g></string>
 
+    <string name="calling_account_encrypted">Audio and video are private</string>
+    <string name="calling_account_not_encrypted">Audio is not private</string>
+
 </resources>
