@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a982f5d2_29296904",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2020-12-07T18:04:29Z",
+      "side": 1,
+      "message": "needs https://review.lineageos.org/c/LineageOS/android_packages_providers_ContactsProvider/+/295446",
+      "revId": "a14d03bd0ed4cd829d0e2d5ab2d038b318d8b832",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
