@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "03e4b918_9911c959",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2022-05-18T02:18:13Z",
+      "side": 1,
+      "message": "Not really sure about this, firstly too many hard coded variables, and why just for two apps? If it was a generalised solution for more number of apps, would have been great.",
+      "revId": "bdc4298b9ee0fd8d0633a17af428ce94a8d1efab",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
