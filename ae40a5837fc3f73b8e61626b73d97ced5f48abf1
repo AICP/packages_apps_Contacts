@@ -33,6 +33,23 @@
       "message": "Lets keep it to remain inline with the \"upstream\"\n\n",
       "revId": "ae40a5837fc3f73b8e61626b73d97ced5f48abf1",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a95e9bda_7c66aedc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2022-05-20T08:08:07Z",
+      "side": 1,
+      "message": "OK then.",
+      "revId": "ae40a5837fc3f73b8e61626b73d97ced5f48abf1",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
